@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello! I'm Caroline. I'm searching for the right next role after spending about five years in technical education. My B.S. is in Statistics, and I'm pursuing a Masters in Analytics (expected 2025.) Five years in technical education has given me a very broad skillset and made me an exceptional technical communicator -- I really shine walking through technical analyses and explaining methods and results. If you're interested in working together, my resume is available upon request -- shoot me an email at `cschmitt33` at `gatech` dot `edu`.
-
-Here are some selected personal projects:
+Selected personal projects:
 - [Association rule mining from semi-structured natural language data](https://github.com/cmschmtt/ds9-association-rules)
 - [Predicting & understanding gas prices & transit demand in large markets](https://github.com/cmschmtt/gas-transit-forecasting)
